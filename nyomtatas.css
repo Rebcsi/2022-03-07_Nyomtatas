@@ -39,6 +39,7 @@ a {
 }
 
 #valasz{
-  visibility:hidden;
+  visibility:hidden; 
+ /* display: none; */
 }
 
