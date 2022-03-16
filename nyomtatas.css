@@ -44,3 +44,7 @@ a {
  /* display: none; */
 }
 
+#szelesseg, #magassag {
+ margin: 0 auto 15px auto;
+}
+
